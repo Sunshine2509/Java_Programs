@@ -1,0 +1,9 @@
+// Structure of the class in java
+class First_Java_Code
+{
+// This is the main method
+  public static void main(String []fjc)
+{
+// Write your code here
+}
+}
