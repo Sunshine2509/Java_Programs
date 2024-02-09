@@ -11,4 +11,4 @@ class Concat_Number_Character
 
 /* Output :
 1: Compile Time: Success
-2: RunTime: Success and  */
+2: RunTime: Success and 2098 */
