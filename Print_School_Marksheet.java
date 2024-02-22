@@ -70,3 +70,37 @@
 	
 }
 }
+
+
+	/* Output:
+
+	Compile Time: Success
+
+	Runtime : Success and
+
+			 Bramha Education Valley
+
+                                    Maharashtra Board
+
+        Name :Pratiksha Patil                                                           Date:21/02/2024
+
+        Roll No :05                     Sec:A                                           Exam:HSC
+
+        Subject                         Total Marks                  Obtained Marks
+
+        English                          100                            80
+
+        Marathi                          100                            90
+
+        Physics                          100                            70
+
+        Mathematics                      100                            90
+
+        Computer Science                 100                            85
+
+        Total :                          500                            415
+
+        Percentage : 83.0                                            Grade :B
+
+        Remark : Very Good                                           Signature :Pratiksha */
+
